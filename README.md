@@ -78,8 +78,7 @@ Run Python snippets inside a tightly constrained Docker container from Discord
 ```python
 import requests
 print("requests:", requests.__version__)
-```
-"""
+
 ```
 
 4) Browse/change directory with pagination
